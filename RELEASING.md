@@ -8,7 +8,7 @@ Status and checklist for the first App Store release. Tick items off as they are
 - [x] Export compliance answered in `Info.plist` (`ITSAppUsesNonExemptEncryption = NO`)
 - [x] Privacy policy: https://openrz67.github.io/privacy.html
 - [x] Support page: https://openrz67.github.io/support.html
-- [x] Project site, org profile and trigger README link this repo as "in progress"
+- [x] Project site, org profile and trigger README link this repo as working, build from source
 
 ## Once
 
